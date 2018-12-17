@@ -1,3 +1,3 @@
 # pivotal-testing
 
-Initial readem!
+Initial readme!
